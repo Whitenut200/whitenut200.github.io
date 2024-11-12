@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Catagory"
+  - title: "catagory"
     url: /Catagories/
-  - title: "Tag"
+  - title: "tags"
     url: /tags/
   # - title: "About"
   #   url: https://Whitenut200.github.io/about/
